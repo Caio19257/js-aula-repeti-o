@@ -17,6 +17,6 @@ for (let tentativa = 1; tentativa < maxtentativas; tentativa++) {
     }
 
     if (!logado) {
-        alert("número máximo de tentativas excedido! Sua conta foi bloqueada por segurança.";)
+        alert("número máximo de tentativas excedido! Sua conta foi bloqueada por segurança.");
     }
 }
